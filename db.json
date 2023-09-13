@@ -6,7 +6,7 @@
       "resumo": "Uma história de amor épica que atravessa décadas e continentes.",
       "atores": ["Jennifer Lawrence", "Brad Pitt", "Cate Blanchett"],
       "capa": "destino_vida.jpg",
-      "duracao": "2h30min"
+      "duracao": 230
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "resumo": "Um detetive particular tenta resolver um mistério de assassinato complexo.",
       "atores": ["Tom Hanks", "Meryl Streep", "Denzel Washington"],
       "capa": "busca_verdade.jpg",
-      "duracao": "2h15min"
+      "duracao": 215
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "resumo": "Um herói relutante deve salvar o mundo de uma ameaça alienígena.",
       "atores": ["Chris Evans", "Scarlett Johansson", "Liam Neeson"],
       "capa": "ultimo_heroi.jpg",
-      "duracao": "2h10min"
+      "duracao": 210
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "resumo": "Uma aventura emocionante de busca por tesouros em uma ilha misteriosa.",
       "atores": ["Johnny Depp", "Angelina Jolie", "Harrison Ford"],
       "capa": "segredo_ilha.jpg",
-      "duracao": "2h20min"
+      "duracao": 220
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "resumo": "Um thriller psicológico sobre segredos do passado que assombram uma família.",
       "atores": ["Nicole Kidman", "Leonardo DiCaprio", "Natalie Portman"],
       "capa": "misterio_passado.jpg",
-      "duracao": "2h05min"
+      "duracao": 205
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "resumo": "Uma história inspiradora sobre perseverança e superação de obstáculos.",
       "atores": ["Will Smith", "Emma Stone", "Morgan Freeman"],
       "capa": "caminho_liberdade.jpg",
-      "duracao": "2h25min"
+      "duracao": 225
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "resumo": "Um conto de fadas moderno ambientado em uma cidade encantada.",
       "atores": ["Anne Hathaway", "Chris Hemsworth", "Julia Roberts"],
       "capa": "magia_cidade.jpg",
-      "duracao": "2h00min"
+      "duracao": 200
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "resumo": "A história verdadeira de um homem que seguiu seus sonhos contra todas as probabilidades.",
       "atores": ["Tom Cruise", "Halle Berry", "Russell Crowe"],
       "capa": "coragem_sonhador.jpg",
-      "duracao": "2h15min"
+      "duracao": 215
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "resumo": "Uma viagem cósmica para descobrir os segredos do universo.",
       "atores": ["Matthew McConaughey", "Jessica Chastain", "Michael Fassbender"],
       "capa": "segredo_universo.jpg",
-      "duracao": "2h30min"
+      "duracao": 230
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "resumo": "Um romance apaixonante que floresce nas ruas de Paris.",
       "atores": ["Ryan Gosling", "Emma Watson", "Julianne Moore"],
       "capa": "amor_paris.jpg",
-      "duracao": "2h10min"
+      "duracao": 210
     }
   ]
 }
